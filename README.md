@@ -1,2 +1,42 @@
-# diogo-leticia-TAPRB-2026
+# Projeto Azure Functions
 
+**Disciplina:** Tópicos Avançados em Programação - Univille  
+**Alunos:** Diogo Soares Germano e Leticia S C Germano  
+
+---
+
+## Demonstração das Execuções e Testes
+
+### 1. http_and_timer_trigger_200
+
+![http_and_timer_trigger_200](http_and_timer_trigger_200.png)
+
+---
+
+### 2. http_and_timer_trigger_log
+
+![http_and_timer_trigger_log](http_and_timer_trigger_log.png)
+
+---
+
+### 3. http_trigger_log
+
+![http_trigger_log](http_trigger_log.png)
+
+---
+
+### 4. http_trigger_2-2
+
+![http_trigger_2-2](http_trigger_2-2.png)
+
+---
+
+### 5. timer_trigger_log
+
+![timer_trigger_log](timer_trigger_log.png)
+
+---
+
+### 6. timer_trigger_202
+
+![timer_trigger_202](timer_trigger_202.png)
