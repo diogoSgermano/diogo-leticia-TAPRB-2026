@@ -5,6 +5,10 @@
 
 ---
 
+## Desenho da arquitetura do projeto
+![imagem_desenho_projeto](imagem_desenho_projeto.png)
+---
+
 ## Demonstração das Execuções e Testes
 
 ### 1. http and timer trigger - resposta 
